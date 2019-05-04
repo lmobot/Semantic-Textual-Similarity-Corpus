@@ -1,0 +1,14 @@
+sts13 
+
+train sts-12
+
+test:
+STS.input.FNWN.txt	189
+STS.input.headlines.txt  750
+STS.input.OnWN.txt	561
+STS.input.SMT.txt	750
+
+	max	min	avg	mode	80%	90%
+train	72	1	13.54	6	21	26
+test	96	1	14.66	7	27	35
+all	96	1	13.87	6	22	28
