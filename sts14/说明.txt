@@ -1,10 +1,13 @@
-﻿sts 14
+sts 14
+ 
+train sts-12 sts-13
 
-deft-forum  450
+test
+deft-forum	450
 deft-news	300
 headlines	750
-images	750
-OnWN	750
+images		750
+OnWN		750
 tweet-news	750
 
 all 11342
@@ -18,7 +21,7 @@ all 11342
 80%的句子长度不超过18，90%的句子长度不超过25
 
 
-	     max  min		    avg			mode     80%     90%
-训练语料 96   1		13.871575342465754   6       22		 28
-测试预料 56   2		9.133333333333333    7		 12		 15
-all		 96	  1     12.304972667959795   6       18		 25
+	max	min	avg	mode	80%	90%
+trsin	96	1	13.87   6       22	28
+test	56	2	9.13    7	12	15
+all	96	1	12.30   6       18	25
