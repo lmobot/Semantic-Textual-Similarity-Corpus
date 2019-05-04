@@ -17,10 +17,10 @@ test 3108
 sequence_length 21 / 26	
 
 
-		max		min		avg		mode	80%		90%
-train	72   	1		17.37	6		26		34
-test	34   	1		10.78	6		17		20
-all		72   	1		13.53	6		21		26
+	max	min	avg	mode	80%	90%
+train	72   	1	17.37	6	26	34
+test	34   	1	10.78	6	17	20
+all	72   	1	13.53	6	21	26
 
 
 
