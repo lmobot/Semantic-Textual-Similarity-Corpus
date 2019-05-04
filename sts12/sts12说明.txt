@@ -1,10 +1,13 @@
-﻿sts-12
+sts-12
+ 
+train
 	sentences			labels
 STS.input.SMTeuroparl	 	 STS.gs.SMTeuroparl  734
 STS.input.MSRpar		 STS.gs.MSRpar	750
 STS.input.MSRvid		 STS.gs.MSRvid	750
 train 2234
 
+test
 STS.gs.MSRpar		750	 
 STS.gs.MSRvid		750	 
 STS.gs.SMTeuroparl	459
